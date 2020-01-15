@@ -1,5 +1,5 @@
 body{
-	background: #111;
-	margin: 0;
-	clear: both;
+	background: #111 !important;
+	margin: 0 !important;
+	clear: both !important;
 }
